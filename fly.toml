@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for yuncdn on 2026-10-06T15:07:31Z
+# fly.toml app configuration file generated for yuncdn-hepl2a on 2026-10-06T15:26:24Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'yuncdn'
-primary_region = 'iad'
+app = 'yuncdn-hepl2a'
+primary_region = 'nrt'
 
 [build]
 
